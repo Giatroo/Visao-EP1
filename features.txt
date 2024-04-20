@@ -1,0 +1,172 @@
+Classes:
+- 0: Switch (switch)
+- 1: Black Keycap (blackkc)
+- 2: Orange Keycap (orangekc)
+- 3: d6 (d6)
+- 4: d20 (d20)
+- 5: Blue Body Spray (bluebs)
+- 6: Brown Body Spray (brownbs)
+- 7: Watch (watch)
+- 8: Wireless Phone (phone)
+- 9: Microphone (mic)
+
+Background Variations:
+- 0: Blue Sheet (blue)
+- 1: Gray Sheet (gray)
+- 2: Light Blue Sheet (lightblue)
+
+Illuminations:
+- 0: Inside House Day (inside_day)
+- 1: Inside House Night (inside_night)
+- 2: Outside Day (outside_day)
+- 3: Outside Night (outside_night)
+
+
+# Combinations:
+
+## Blue Sheet
+### Inside House Day
+[x] Switch (2)
+[x] Black Keycap (3)
+[x] Orange Keycap (1)
+[x] d6
+[x] d20
+[x] Blue Body Spray
+[x] Brown Body Spray
+[x] Watch
+[x] Wireless Phone
+[x] Microphone
+
+### Inside House Night
+[X] Switch
+[X] Black Keycap
+[X] Orange Keycap
+[X] d6
+[X] d20
+[X] Blue Body Spray
+[X] Brown Body Spray
+[X] Watch
+[X] Wireless Phone
+[X] Microphone
+
+### Outside Day
+[ ] Switch
+[ ] Black Keycap
+[ ] Orange Keycap
+[ ] d6
+[ ] d20
+[ ] Blue Body Spray
+[ ] Brown Body Spray
+[ ] Watch
+[ ] Wireless Phone
+[ ] Microphone
+
+### Outside Night
+[ ] Switch
+[ ] Black Keycap
+[ ] Orange Keycap
+[ ] d6
+[ ] d20
+[ ] Blue Body Spray
+[ ] Brown Body Spray
+[ ] Watch
+[ ] Wireless Phone
+[ ] Microphone
+
+## Gray Sheet
+### Inside House Day
+[x] Switch
+[x] Black Keycap
+[x] Orange Keycap
+[x] d6
+[x] d20
+[x] Blue Body Spray (tem 4 no total)
+[x] Brown Body Spray
+[x] Watch
+[x] Wireless Phone
+[x] Microphone
+
+### Inside House Night
+[X] Switch
+[X] Black Keycap
+[X] Orange Keycap
+[X] d6
+[X] d20
+[X] Blue Body Spray
+[X] Brown Body Spray
+[X] Watch
+[X] Wireless Phone
+[X] Microphone
+
+### Outside Day
+[ ] Switch
+[ ] Black Keycap
+[ ] Orange Keycap
+[ ] d6
+[ ] d20
+[ ] Blue Body Spray
+[ ] Brown Body Spray
+[ ] Watch
+[ ] Wireless Phone
+[ ] Microphone
+
+### Outside Night
+[ ] Switch
+[ ] Black Keycap
+[ ] Orange Keycap
+[ ] d6
+[ ] d20
+[ ] Blue Body Spray
+[ ] Brown Body Spray
+[ ] Watch
+[ ] Wireless Phone
+[ ] Microphone
+
+## Light Blue Sheet
+### Inside House Day
+[x] Switch
+[x] Black Keycap
+[x] Orange Keycap
+[x] d6 (faltou 1, tá no final)
+[x] d20
+[x] Blue Body Spray
+[x] Brown Body Spray
+[x] Watch
+[x] Wireless Phone
+[x] Microphone
+
+### Inside House Night
+[X] Switch
+[X] Black Keycap
+[X] Orange Keycap
+[X] d6
+[X] d20
+[X] Blue Body Spray
+[X] Brown Body Spray
+[X] Watch
+[X] Wireless Phone
+[X] Microphone
+
+### Outside Day
+[ ] Switch
+[ ] Black Keycap
+[ ] Orange Keycap
+[ ] d6
+[ ] d20
+[ ] Blue Body Spray
+[ ] Brown Body Spray
+[ ] Watch
+[ ] Wireless Phone
+[ ] Microphone
+
+### Outside Night
+[ ] Switch
+[ ] Black Keycap
+[ ] Orange Keycap
+[ ] d6
+[ ] d20
+[ ] Blue Body Spray
+[ ] Brown Body Spray
+[ ] Watch
+[ ] Wireless Phone
+[ ] Microphone
