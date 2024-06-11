@@ -1,5 +1,14 @@
+# Core libraries
 numpy
 pandas
 matplotlib
+
+# Extra libs used only in some processing/plotting parts
 pillow
+opencv-python
+
+# Dev env requirements
 ipykernel
+tqdm
+jupyter
+ipywidgets
