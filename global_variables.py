@@ -55,6 +55,8 @@ MAP_COLUMN_TO_CONVERTER = {
     "label_code": lambda x: CLASS_TO_OBJECT_NAME[OBJECT_CODE_TO_CLASS[x]],
 }
 
+METADATA_FILE = "images_metadata.csv"
+
 __all__ = [
     "RAW_DATA_FOLDER",
     "BACKGROUND_KEY_TO_STRING",
@@ -63,4 +65,5 @@ __all__ = [
     "OBJECT_CODE_TO_CLASS",
     "CLASS_TO_OBJECT_NAME",
     "MAP_COLUMN_TO_CONVERTER",
+    "METADATA_FILE",
 ]
